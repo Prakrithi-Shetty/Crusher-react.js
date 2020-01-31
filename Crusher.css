@@ -1,0 +1,18 @@
+.border
+{
+padding-top: 100px;
+  padding-left: 100px;
+   padding-right: 200px;
+   padding-bottom: 200px;
+  }
+  .button{
+   text-align: right;
+    margin-top: 20px;
+  }
+  .space {
+   
+   text-align: center;
+   color: black;
+   margin-top: 30PX;
+    
+  }
